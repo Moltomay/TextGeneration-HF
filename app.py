@@ -19,7 +19,7 @@ HUGGINGFACEHUB_API_TOKEN=os.getenv("HUGGINGFACEHUB_API_TOKEN")
 pipe = pipeline("text-generation", model="gpt2")
 
 
-st.title('🦜🔗 Happy Life Paper Agent')
+st.title('🦜🔗 Text Generator')
 # Create a text input box for the user
 prompt = st.text_input('Input your prompt here')
 	
