@@ -2,10 +2,10 @@
 
 To try it : 
 
-1- Clone the repo --> 
+1- Clone the repo 
 
 
-2- Install packages from requirements.txt file -->
+2- Install packages from requirements.txt file 
 
 
 
