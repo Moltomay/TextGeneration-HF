@@ -2,9 +2,8 @@
 
 To try it : 
 
-* You need to create a HugginFace account and add a HF Token as a pre-requesite
+N.B : You need to create a HugginFace account and add a HF Token as a pre-requesite
 
-* 
 
 1- Clone the repo 
 
